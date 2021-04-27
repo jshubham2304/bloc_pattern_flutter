@@ -1,8 +1,10 @@
-# bloc_pattern
+# bloc_pattern 
+###### Login Functionality 
 
-A new Flutter project.
+A  Flutter project  using Bloc architecture .
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
